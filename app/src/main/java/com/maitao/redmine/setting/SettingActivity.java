@@ -7,5 +7,5 @@ package com.maitao.redmine.setting;
  * -       Date: 17-9-13.
  */
 
-public class SeetingActivity {
+public class SettingActivity {
 }
