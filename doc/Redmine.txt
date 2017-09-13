@@ -1,0 +1,11 @@
+
+curl -v -H "Content-Type: application/json" -X PUT --data-binary "@388.json" -u login:password http://redmine/issues/388.json
+curl -v -H "Content-Type: application/json" -X PUT --data-binary "@388.json" -H "X-Redmine-API-Key: xxxx" http://redmine/issues/388.json
+
+
+获取用户详情，使用用户、密码授权的方式,需添加Header
+Authorization: Base xxx
+xxx为 <用户名>:<密码>  的base64编码
+
+其余所有接口，需添加Header :
+X-Redmine-API-Key : api_key
