@@ -1,4 +1,4 @@
-package com.maitao.redmine.http.service;
+package com.kevin.http.service;
 
 import io.reactivex.Observable;
 import okhttp3.Response;

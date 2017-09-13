@@ -1,4 +1,4 @@
-package com.maitao.redmine.http.bean;
+package com.kevin.http.bean;
 
 import com.google.gson.Gson;
 import com.google.gson.annotations.SerializedName;

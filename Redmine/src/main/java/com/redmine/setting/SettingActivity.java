@@ -1,4 +1,4 @@
-package com.maitao.redmine.base;
+package com.redmine.setting;
 
 /**
  * <p>
@@ -7,5 +7,5 @@ package com.maitao.redmine.base;
  * -       Date: 17-9-13.
  */
 
-public class BaseActivity {
+public class SettingActivity {
 }
