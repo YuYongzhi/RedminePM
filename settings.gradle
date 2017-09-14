@@ -1,1 +1,1 @@
-include ':Redmine'
+include ':app'
